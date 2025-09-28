@@ -1,0 +1,15 @@
+dataset
+diffportrait360/
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.ckpt
+*.log
+*.csv
+*.json
+diffportrait360_release/code/consistency_image_log/*
+diffportrait360_release/code/consistency_log/*
+diffportrait360_release/code/log_board/*
+diffportrait360_release/code/image_log/*
+inference-*
